@@ -1,0 +1,146 @@
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 23:57"}
+{"level": "INFO", "message": "test_1_login", "timestamp": "2019-03-10 23:57"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 23:57"}
+{"level": "DEBUG", "message": "Tab Saya opened", "timestamp": "2019-03-10 23:57"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 23:58"}
+{"level": "INFO", "message": "test_1_login", "timestamp": "2019-03-10 23:58"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-10 23:58"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Beranda\"] Found", "timestamp": "2019-03-10 23:58"}
+{"level": "DEBUG", "message": "Tab Saya opened", "timestamp": "2019-03-10 23:58"}
+{"level": "INFO", "message": "Element //android.widget.Button[@text=\"Log In\"] Found", "timestamp": "2019-03-10 23:58"}
+{"level": "INFO", "message": "Element //android.widget.Button[@text=\"LOG IN\"] Found", "timestamp": "2019-03-10 23:58"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:00"}
+{"level": "INFO", "message": "test_1_login", "timestamp": "2019-03-11 00:00"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:00"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Beranda\"] Found", "timestamp": "2019-03-11 00:00"}
+{"level": "DEBUG", "message": "Tab Saya opened", "timestamp": "2019-03-11 00:00"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:01"}
+{"level": "INFO", "message": "test_1_login", "timestamp": "2019-03-11 00:01"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:01"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Beranda\"] Found", "timestamp": "2019-03-11 00:01"}
+{"level": "DEBUG", "message": "Tab Saya opened", "timestamp": "2019-03-11 00:01"}
+{"level": "INFO", "message": "Element //android.widget.Button[@text=\"Log In\"] Found", "timestamp": "2019-03-11 00:01"}
+{"level": "INFO", "message": "Element //android.widget.Button[@text=\"LOG IN\"] Found", "timestamp": "2019-03-11 00:01"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:04"}
+{"level": "INFO", "message": "test_1_login", "timestamp": "2019-03-11 00:04"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:04"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Beranda\"] Found", "timestamp": "2019-03-11 00:04"}
+{"level": "DEBUG", "message": "Tab Saya opened", "timestamp": "2019-03-11 00:04"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:04"}
+{"level": "INFO", "message": "test_1_login", "timestamp": "2019-03-11 00:04"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:04"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Beranda\"] Found", "timestamp": "2019-03-11 00:04"}
+{"level": "DEBUG", "message": "Tab Saya opened", "timestamp": "2019-03-11 00:04"}
+{"level": "INFO", "message": "Element //android.widget.Button[@text=\"Log In\"] Found", "timestamp": "2019-03-11 00:04"}
+{"level": "INFO", "message": "Element //android.widget.Button[@text=\"LOG IN\"] Found", "timestamp": "2019-03-11 00:04"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:07"}
+{"level": "INFO", "message": "test_1_login", "timestamp": "2019-03-11 00:07"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:07"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Beranda\"] Found", "timestamp": "2019-03-11 00:07"}
+{"level": "DEBUG", "message": "Tab Saya opened", "timestamp": "2019-03-11 00:07"}
+{"level": "INFO", "message": "Element //android.widget.Button[@text=\"Log In\"] Found", "timestamp": "2019-03-11 00:07"}
+{"level": "INFO", "message": "Element //android.widget.Button[@text=\"LOG IN\"] Found", "timestamp": "2019-03-11 00:07"}
+{"level": "INFO", "message": "Login success", "timestamp": "2019-03-11 00:07"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:11"}
+{"level": "INFO", "message": "test_2_add_item_to_chat", "timestamp": "2019-03-11 00:11"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:11"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:26"}
+{"level": "INFO", "message": "test_2_add_item_to_chat", "timestamp": "2019-03-11 00:26"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:26"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Elektronik Center\"] Found", "timestamp": "2019-03-11 00:26"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Cari dalam Elektronik Center | 15 Feb-14 Mar\"] Found", "timestamp": "2019-03-11 00:26"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:49"}
+{"level": "INFO", "message": "test_2_add_item_to_chat", "timestamp": "2019-03-11 00:49"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:49"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Elektronik Center\"] Found", "timestamp": "2019-03-11 00:49"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Cari dalam Elektronik Center | 15 Feb-14 Mar\"] Found", "timestamp": "2019-03-11 00:49"}
+{"level": "INFO", "message": "Open keyword", "timestamp": "2019-03-11 00:49"}
+{"level": "INFO", "message": "Choosing item", "timestamp": "2019-03-11 00:49"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:55"}
+{"level": "INFO", "message": "test_2_add_item_to_chat", "timestamp": "2019-03-11 00:55"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 00:55"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Elektronik Center\"] Found", "timestamp": "2019-03-11 00:55"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Cari dalam Elektronik Center | 15 Feb-14 Mar\"] Found", "timestamp": "2019-03-11 00:55"}
+{"level": "INFO", "message": "Open keyword", "timestamp": "2019-03-11 00:56"}
+{"level": "INFO", "message": "Choosing item", "timestamp": "2019-03-11 00:56"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:01"}
+{"level": "INFO", "message": "test_2_add_item_to_chat", "timestamp": "2019-03-11 01:01"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:01"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Elektronik Center\"] Found", "timestamp": "2019-03-11 01:01"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Cari dalam Elektronik Center | 15 Feb-14 Mar\"] Found", "timestamp": "2019-03-11 01:02"}
+{"level": "INFO", "message": "Open keyword", "timestamp": "2019-03-11 01:02"}
+{"level": "INFO", "message": "Choosing item", "timestamp": "2019-03-11 01:02"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:02"}
+{"level": "INFO", "message": "test_2_add_item_to_chat", "timestamp": "2019-03-11 01:02"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:02"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Elektronik Center\"] Found", "timestamp": "2019-03-11 01:02"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Cari dalam Elektronik Center | 15 Feb-14 Mar\"] Found", "timestamp": "2019-03-11 01:02"}
+{"level": "INFO", "message": "Open keyword", "timestamp": "2019-03-11 01:03"}
+{"level": "INFO", "message": "Choosing item", "timestamp": "2019-03-11 01:03"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:06"}
+{"level": "INFO", "message": "test_2_add_item_to_chat", "timestamp": "2019-03-11 01:06"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:06"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Elektronik Center\"] Found", "timestamp": "2019-03-11 01:06"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Cari dalam Elektronik Center | 15 Feb-14 Mar\"] Found", "timestamp": "2019-03-11 01:06"}
+{"level": "INFO", "message": "Open keyword", "timestamp": "2019-03-11 01:06"}
+{"level": "INFO", "message": "Choosing item", "timestamp": "2019-03-11 01:06"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Keranjang Saya\"] Found", "timestamp": "2019-03-11 01:06"}
+{"level": "INFO", "message": "Current Context is  Web View", "timestamp": "2019-03-11 01:06"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:08"}
+{"level": "INFO", "message": "test_2_add_item_to_chat", "timestamp": "2019-03-11 01:08"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:08"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Elektronik Center\"] Found", "timestamp": "2019-03-11 01:08"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Cari dalam Elektronik Center | 15 Feb-14 Mar\"] Found", "timestamp": "2019-03-11 01:08"}
+{"level": "INFO", "message": "Open keyword", "timestamp": "2019-03-11 01:08"}
+{"level": "INFO", "message": "Choosing item", "timestamp": "2019-03-11 01:08"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Keranjang Saya\"] Found", "timestamp": "2019-03-11 01:09"}
+{"level": "INFO", "message": "Current Context is  Web View", "timestamp": "2019-03-11 01:09"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:09"}
+{"level": "INFO", "message": "test_2_add_item_to_chat", "timestamp": "2019-03-11 01:09"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:09"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Elektronik Center\"] Found", "timestamp": "2019-03-11 01:10"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Cari dalam Elektronik Center | 15 Feb-14 Mar\"] Found", "timestamp": "2019-03-11 01:10"}
+{"level": "INFO", "message": "Open keyword", "timestamp": "2019-03-11 01:10"}
+{"level": "INFO", "message": "Choosing item", "timestamp": "2019-03-11 01:10"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:12"}
+{"level": "INFO", "message": "test_2_add_item_to_chat", "timestamp": "2019-03-11 01:12"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:12"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Elektronik Center\"] Found", "timestamp": "2019-03-11 01:12"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Cari dalam Elektronik Center | 15 Feb-14 Mar\"] Found", "timestamp": "2019-03-11 01:12"}
+{"level": "INFO", "message": "Open keyword", "timestamp": "2019-03-11 01:12"}
+{"level": "INFO", "message": "Choosing item", "timestamp": "2019-03-11 01:12"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:13"}
+{"level": "INFO", "message": "test_2_add_item_to_chat", "timestamp": "2019-03-11 01:13"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:13"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Elektronik Center\"] Found", "timestamp": "2019-03-11 01:13"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Cari dalam Elektronik Center | 15 Feb-14 Mar\"] Found", "timestamp": "2019-03-11 01:13"}
+{"level": "INFO", "message": "Open keyword", "timestamp": "2019-03-11 01:13"}
+{"level": "INFO", "message": "Choosing item", "timestamp": "2019-03-11 01:13"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Keranjang Saya\"] Found", "timestamp": "2019-03-11 01:13"}
+{"level": "INFO", "message": "Current Context is  Web View2", "timestamp": "2019-03-11 01:13"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:37"}
+{"level": "INFO", "message": "test_4_delete_chart", "timestamp": "2019-03-11 01:37"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:37"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Beranda\"] Found", "timestamp": "2019-03-11 01:37"}
+{"level": "DEBUG", "message": "Tab Saya opened", "timestamp": "2019-03-11 01:37"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:38"}
+{"level": "INFO", "message": "test_4_delete_chart", "timestamp": "2019-03-11 01:38"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:38"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Beranda\"] Found", "timestamp": "2019-03-11 01:38"}
+{"level": "DEBUG", "message": "Tab Saya opened", "timestamp": "2019-03-11 01:38"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:39"}
+{"level": "INFO", "message": "test_4_delete_chart", "timestamp": "2019-03-11 01:39"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:39"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Beranda\"] Found", "timestamp": "2019-03-11 01:39"}
+{"level": "DEBUG", "message": "Tab Saya opened", "timestamp": "2019-03-11 01:39"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:42"}
+{"level": "INFO", "message": "test_4_delete_chart", "timestamp": "2019-03-11 01:42"}
+{"level": "INFO", "message": "=================", "timestamp": "2019-03-11 01:42"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Beranda\"] Found", "timestamp": "2019-03-11 01:42"}
+{"level": "DEBUG", "message": "Tab Saya opened", "timestamp": "2019-03-11 01:42"}
+{"level": "INFO", "message": "Element //android.widget.TextView[@text=\"Keranjang Saya\"] Found", "timestamp": "2019-03-11 01:42"}
+{"level": "INFO", "message": "Current Context is  Web View", "timestamp": "2019-03-11 01:42"}
+{"level": "INFO", "message": "Element //span[contains(@class, 'capitalize r14 pannel-delete__label')] Found", "timestamp": "2019-03-11 01:43"}
+{"level": "INFO", "message": "Current Context is Native", "timestamp": "2019-03-11 01:43"}
+{"level": "INFO", "message": "--------------------------------------", "timestamp": "2019-03-11 01:43"}
+{"level": "INFO", "message": "Delete chart SUCCESS", "timestamp": "2019-03-11 01:43"}
